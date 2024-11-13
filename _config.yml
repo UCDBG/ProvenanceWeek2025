@@ -1,21 +1,15 @@
 title:              ProvenanceWeek2025
 stitle:             ProvenanceWeek2025
-# tapp:               TaPP2023
-# ipaw:               IPAW2023
 email:              pw25sigmod@gmail.com
 description:
 author:             ProvenanceWeek2025
 baseurl:            "/ProvenanceWeek2025"
-# tappurl:            "/TaPP2023"
-# ipawurl:            "/IPAW2023"
-organizers:         organizers
-# url:                "https://provenanceweek.github.io/"
-repository:         "UCDBG/ProvenanceWeek2025"
+url:                "https://ucdbg.github.io/"
+# repository:         "UCDBG/ProvenanceWeek2025"
 
 # Social Profiles
-
-# github_username:    tapp2022
-
+twitter_username:   SBootstrap
+github_username:    ProvenanceWeek2025
 instagram_username:
 linkedin_username:
 
@@ -31,12 +25,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
 
-###############################################
-# --- List of links in the navigation bar --- #
-###############################################
-
-navbar-links:
-  Organizers: "organizers"
 
 # # Welcome to Jekyll!
 # #
