@@ -1,93 +1,93 @@
-# title:              ProvenanceWeek2025
-# stitle:             ProvenanceWeek2025
-# # tapp:               TaPP2023
-# # ipaw:               IPAW2023
-# email:              pw25sigmod@gmail.com
-# description:
-# author:             ProvenanceWeek2025
-# baseurl:            "/ProvenanceWeek2025"
-# # tappurl:            "/TaPP2023"
-# # ipawurl:            "/IPAW2023"
-# # url:                "https://provenanceweek.github.io/"
-# repository:         "UCDBG/ProvenanceWeek2025"
+title:              ProvenanceWeek2025
+stitle:             ProvenanceWeek2025
+# tapp:               TaPP2023
+# ipaw:               IPAW2023
+email:              pw25sigmod@gmail.com
+description:
+author:             ProvenanceWeek2025
+baseurl:            "/ProvenanceWeek2025"
+# tappurl:            "/TaPP2023"
+# ipawurl:            "/IPAW2023"
+# url:                "https://provenanceweek.github.io/"
+repository:         "UCDBG/ProvenanceWeek2025"
 
-# # Social Profiles
+# Social Profiles
 
-# github_username:    tapp2022
+github_username:    tapp2022
 
-# instagram_username:
-# linkedin_username:
+instagram_username:
+linkedin_username:
 
-# # Add your google-analytics ID here to activate google analytics
-# google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
-
-# # Build settings
-# markdown:           kramdown
-# paginate:           5
-# paginate_path:      "/posts/page:num/"
-# plugins:
-#   - jekyll-feed
-#   - jekyll-paginate
-#   - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
-
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: ProvenanceWeek 2025
-email: ""
-description: >- # this means to ignore newlines until "baseurl:"
-  Following successful past ProvenanceWeek events, ProvenanceWeek 2021 will again co-locate the IPAW and TaPP workshops as well as several satellite events that focus on novel directions for provenance.
-#baseurl: "" # the subpath of your site, e.g. /blog
-#url: "" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: jekyllrb
-#github_username:  jekyll
-
-repository: "UCDBG/ProvenanceWeek2025"
-
-show_excerpts: true
+# Add your google-analytics ID here to activate google analytics
+google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
 
 # Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
 plugins:
   - jekyll-feed
-  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
 
-# # A list of the pages to display in the navigation bar
-# header_pages:
-#   - registration.md
-#   - virtual.md
-#   - tapp.md
-#   - ipaw.md
-#   - provviz.md
-#   - t7.md
-#   - important_dates.md
-#   - cfp.md
-# #  - location.md
-#   - news.html
-# #  - workshops
-# #  - schedule.md
+# # Welcome to Jekyll!
+# #
+# # This config file is meant for settings that affect your whole blog, values
+# # which you are expected to set up once and rarely edit after that. If you find
+# # yourself editing this file very often, consider using Jekyll's data files
+# # feature for the data you need to update frequently.
+# #
+# # For technical reasons, this file is *NOT* reloaded automatically when you use
+# # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-# # virtual_event: "June 22nd 9:00am - 3:30pm (eastern)"
-# long_dates: "July 19-22 2021"
-# short_dates: "07/19-07/22"
-# virtual_event: "July 19th - July 22nd, 2021"
+# # Site settings
+# # These are used to personalize your new site. If you look in the HTML files,
+# # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# # You can create any custom variable you would like, and they will be accessible
+# # in the templates via {{ site.myvariable }}.
+# title: ProvenanceWeek 2025
+# email: ""
+# description: >- # this means to ignore newlines until "baseurl:"
+#   Following successful past ProvenanceWeek events, ProvenanceWeek 2021 will again co-locate the IPAW and TaPP workshops as well as several satellite events that focus on novel directions for provenance.
+# #baseurl: "" # the subpath of your site, e.g. /blog
+# #url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# #twitter_username: jekyllrb
+# #github_username:  jekyll
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - update_boostrap.sh
+# repository: "UCDBG/ProvenanceWeek2025"
+
+# show_excerpts: true
+
+# # Build settings
+# plugins:
+#   - jekyll-feed
+#   - jekyll-sitemap
+
+# # # A list of the pages to display in the navigation bar
+# # header_pages:
+# #   - registration.md
+# #   - virtual.md
+# #   - tapp.md
+# #   - ipaw.md
+# #   - provviz.md
+# #   - t7.md
+# #   - important_dates.md
+# #   - cfp.md
+# # #  - location.md
+# #   - news.html
+# # #  - workshops
+# # #  - schedule.md
+
+# # # virtual_event: "June 22nd 9:00am - 3:30pm (eastern)"
+# # long_dates: "July 19-22 2021"
+# # short_dates: "07/19-07/22"
+# # virtual_event: "July 19th - July 22nd, 2021"
+
+# # Exclude from processing.
+# # The following items will not be processed, by default. Create a custom list
+# # to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - update_boostrap.sh
