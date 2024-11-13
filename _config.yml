@@ -8,7 +8,7 @@ author:             ProvenanceWeek2025
 baseurl:            "/ProvenanceWeek2025"
 # tappurl:            "/TaPP2023"
 # ipawurl:            "/IPAW2023"
-organizers:         "/organizers.html"
+organizers:         organizers
 # url:                "https://provenanceweek.github.io/"
 repository:         "UCDBG/ProvenanceWeek2025"
 
