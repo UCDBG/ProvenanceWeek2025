@@ -36,7 +36,7 @@ plugins:
 ###############################################
 
 navbar-links:
-  organizers: "organizers"
+  Organizers: "organizers"
 
 # # Welcome to Jekyll!
 # #
